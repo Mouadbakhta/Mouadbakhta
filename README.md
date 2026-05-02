@@ -3,7 +3,7 @@
 <h3 align="center">Software engineering student passionate about Full-Stack development and MLOps, with hands-on experience building real-world projects.</h3>
 
 - 🔭 I’m currently working on **OrcaML**
-- 🌱 I’m currently learning **Spring Boot, Angular, FastAPI and Redis**
+- 🌱 I’m currently learning **Spring Boot, Angular, FastAPI.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mouad_bakhta) 
